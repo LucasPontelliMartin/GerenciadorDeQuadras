@@ -1,0 +1,4 @@
+001 - Vassoura - 010 - 2.30 
+002 - Rodo - 025 - 1.40 
+003 - Copo Americano - 08 - 2.50
+null - null - Copo de plastico 200ml - 2 - 1.75 - 
